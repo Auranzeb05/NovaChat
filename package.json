@@ -1,15 +1,12 @@
 {
-  {
-    "name": "Nova-chat",
-    "version": "1.0.0",
-    "private": true,
-    "author": "Auranzeb05",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Auranzeb05/NovaChat.git"
-    },
-    
-  }
+  "name": "Nova-chat",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Auranzeb05",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Auranzeb05/NovaChat.git"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
